@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "abrahammarkdown"
-version = "0.0.0"
+version = "0.1.0"
 description = "Converts University of Lincoln modules to folders of markdown, including notes, questions, and other module information. Designed for Obsidian."
 authors = ["William Fayers <william@fayers.com>"]
 license = "MIT"
